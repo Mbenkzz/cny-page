@@ -5,6 +5,8 @@
 	<meta charset="UTF-8">
 	<title>Lunar New Year</title>
 
+	<link rel="shortcut icon" href="favicon.png" type="image/png">
+
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<!-- Traditional Chinese Script -->
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;700;900&display=swap" rel="stylesheet">
