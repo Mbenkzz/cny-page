@@ -120,8 +120,8 @@
 		<h3 class="title">Happy New Year!</h3>
 		<h1 class="chinese">恭賀新禧!</h1>
 	</div>
-	<span class="footer author">Created by <a href="https://github.com/Mbenkzz">Mbenkzz</a></span>
-	<span class="footer copyright">Image Designed By Dr_J from <a href="https://pngtree.com/freepng/chinese-lunar-new-year-2022-year-of-the-tiger-cartoon-cute-red-tiger-ingot_6953712.html?sol=downref&id=bef">Pngtree</a></span>
+	<span class="footer author">Created by <a target="_blank" href="https://github.com/Mbenkzz">Mbenkzz</a></span>
+	<span class="footer copyright">Image Designed By Dr_J from <a target="_blank" href="https://pngtree.com/freepng/chinese-lunar-new-year-2022-year-of-the-tiger-cartoon-cute-red-tiger-ingot_6953712.html?sol=downref&id=bef">Pngtree</a></span>
 	<script type="text/javascript">
 		// when animating on canvas, it is best to use requestAnimationFrame instead of setTimeout or setInterval
 // not supported in all browsers though and sometimes needs a prefix, so we need a shim
