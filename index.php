@@ -19,6 +19,13 @@
 			margin: 0;
 			background-blend-mode: darken;
 			background-position: center;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
 		}
 
 		canvas {
@@ -76,6 +83,12 @@
 			padding: 0.25em;
 			font-size: 10px;
 			font-family: 'Kaushan Script';
+			color: #f0f0a1;
+		}
+
+		.copyright > a {
+			color: #f0f0a1;
+			text-decoration: underline;
 		}
 
 		@media (min-width: 991px) {
